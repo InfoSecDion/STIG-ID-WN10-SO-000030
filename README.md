@@ -5,8 +5,8 @@ This PowerShell script ensures that the Audit policy using subcategories is enab
 
 ## Notes
 - **Author**: Dion Alexander
-- **LinkedIn**: 
-- **GitHub**: 
+- **LinkedIn**: https://www.linkedin.com/in/infosecdion
+- **GitHub**: https://github.com/InfoSecDion
 - **Date Created**: 2025-11-19
 - **Last Modified**: 2025-11-19
 - **Version**: 1.0
